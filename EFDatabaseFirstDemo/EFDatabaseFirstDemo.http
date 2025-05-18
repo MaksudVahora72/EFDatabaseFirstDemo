@@ -1,0 +1,6 @@
+@EFDatabaseFirstDemo_HostAddress = http://localhost:5082
+
+GET {{EFDatabaseFirstDemo_HostAddress}}/api/Product
+Accept: application/json
+
+###
